@@ -22,7 +22,7 @@ Implementation and evaluation code for our paper [Sparse Map-Matching in Public 
 Fetch this repository and init submodules:
 
 ```
-git clone --recurse-submodules https://github.com/ad-freiburg/pfaedle
+git clone --recurse-submodules https://github.com/jalessio/pfaedle
 ```
 
 ```
